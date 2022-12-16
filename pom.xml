@@ -17,7 +17,7 @@
         <maven.compiler.encoding>UTF-8</maven.compiler.encoding>
         <source.version>1.6</source.version>
         <target.version>1.6</target.version>
-        <spring.version>4.1.7.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <junit.version>4.11</junit.version>
     </properties>
 
